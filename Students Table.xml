@@ -1,0 +1,1983 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<StudentsTable>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>40924</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>121235</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>475305</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>353980</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>601626</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>374073</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>67748</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>424050</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>290405</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>765880</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Красько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Красько</lastname>
+			<salary>121689</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Красько</lastname>
+			<salary>624449</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>243179</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>306958</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>573454</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>287666</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Мисько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Мисько</lastname>
+			<salary>130862</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Мисько</lastname>
+			<salary>290161</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Луцка</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Луцка</lastname>
+			<salary>69867</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Луцка</lastname>
+			<salary>341325</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>508817</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>500227</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>711839</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>395985</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Мисько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Мисько</lastname>
+			<salary>689851</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Мисько</lastname>
+			<salary>569926</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Луцка</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Луцка</lastname>
+			<salary>606367</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Луцка</lastname>
+			<salary>567430</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>582368</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>551399</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Красько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Красько</lastname>
+			<salary>304008</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Красько</lastname>
+			<salary>650591</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Мисько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Мисько</lastname>
+			<salary>397104</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Мисько</lastname>
+			<salary>314536</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>222219</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>217707</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>789877</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>1290</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>199082</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>484624</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Красько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Красько</lastname>
+			<salary>538053</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Красько</lastname>
+			<salary>336212</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>512946</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>330921</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>367</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>378402</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>666396</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>558722</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>417327</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>88722</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>339296</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>149784</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>209094</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>778287</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>609924</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>682555</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>695014</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>507357</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Мисько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Мисько</lastname>
+			<salary>285699</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Мисько</lastname>
+			<salary>302916</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>586961</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>651578</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>411160</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>241451</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>366534</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>368346</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>48200</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>391680</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>566007</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>261667</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>165888</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>389581</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>574798</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>700787</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>30544</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>383386</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>517634</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>502917</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>148966</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>235755</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>330119</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>295953</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>116368</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>41383</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>687633</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>140742</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>101536</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>499197</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>768642</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>434934</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>103879</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>637820</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Красько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Красько</lastname>
+			<salary>218410</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Красько</lastname>
+			<salary>605244</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>562678</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>63534</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>567422</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>735417</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Красько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Красько</lastname>
+			<salary>777241</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Красько</lastname>
+			<salary>459576</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>393067</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>72314</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>742029</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>686587</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>410532</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>223451</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>343625</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>388736</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>445915</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>130745</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>91124</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>191864</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>100977</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>614023</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>627220</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>328136</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>721121</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>564578</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>453837</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>565553</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>481968</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>20840</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>228522</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>679242</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>391248</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>152504</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Маканько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Маканько</lastname>
+			<salary>80916</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Маканько</lastname>
+			<salary>679593</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>729120</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>778659</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>696134</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>681623</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>462109</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>447907</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>71820</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>761986</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Дерябко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Дерябко</lastname>
+			<salary>767417</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Дерябко</lastname>
+			<salary>551667</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>198125</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>206791</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>464559</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>436888</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>423752</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>509753</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>668550</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>659940</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>472899</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>688206</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>390354</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>25508</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Иванько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Иванько</lastname>
+			<salary>19030</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Иванько</lastname>
+			<salary>585101</salary>
+		</mother>
+
+		<brothersAmount>0</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>283438</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>648744</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>431753</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>217197</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>112712</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Перятько</lastname>
+			<salary>532888</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>320902</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>575356</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Крапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Крапко</lastname>
+			<salary>477973</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Крапко</lastname>
+			<salary>369430</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>544180</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>268610</salary>
+		</mother>
+
+		<brothersAmount>1</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапатько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапатько</lastname>
+			<salary>149243</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапатько</lastname>
+			<salary>217167</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Мисько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Мисько</lastname>
+			<salary>29785</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Мисько</lastname>
+			<salary>612074</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Малафиенко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>78107</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Малафиенко</lastname>
+			<salary>87362</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>2</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>304809</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Лапко</lastname>
+			<salary>292476</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>1</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Замко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Замко</lastname>
+			<salary>652243</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Замко</lastname>
+			<salary>5660</salary>
+		</mother>
+
+		<brothersAmount>4</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Луцка</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Луцка</lastname>
+			<salary>26373</salary>
+		</father>
+
+		<mother>
+			<name>Лилия</name>
+			<surname>Сергеевна</surname>
+			<lastname>Луцка</lastname>
+			<salary>458463</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>0</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Лапко</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Лапко</lastname>
+			<salary>712190</salary>
+		</father>
+
+		<mother>
+			<name>Карина</name>
+			<surname>Борисовна</surname>
+			<lastname>Лапко</lastname>
+			<salary>21302</salary>
+		</mother>
+
+		<brothersAmount>2</brothersAmount>
+		<sistersAmount>3</sistersAmount>
+	</Student>
+	<Student>
+		<name>Иван</name>
+		<surname>Александрович</surname>
+		<lastname>Перятько</lastname>
+
+		<father>
+			<name>Александр</name>
+			<surname>Иванович</surname>
+			<lastname>Перятько</lastname>
+			<salary>145299</salary>
+		</father>
+
+		<mother>
+			<name>Карина</name>
+			<surname>Борисовна</surname>
+			<lastname>Перятько</lastname>
+			<salary>174254</salary>
+		</mother>
+
+		<brothersAmount>3</brothersAmount>
+		<sistersAmount>4</sistersAmount>
+	</Student>
+</StudentsTable>
